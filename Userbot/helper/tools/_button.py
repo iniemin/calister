@@ -306,7 +306,7 @@ class MSG:
 <u><b>🆘 Dukungan</b></u>
 Untuk mendapatkan dukungan, Anda dapat:
 ❍ Mengikuti prosedur pembuatan userbot ini
-❍ RESIKO userbot bisa [BACA DISINI](https://telegra.ph/RESIKO-USERBOT-08-09)
+❍ RESIKO userbot bisa [BACA DISINI](https://telegra.ph/RESIKO-USERBOT-03-01)
 ❍ Membuat Userbot = SETUJU DAN PAHAM RESIKO
 
 <b><u>👉🏻 Tekan tombol 📃 Saya Setuju</u></b> untuk menyatakan bahwa Anda telah
